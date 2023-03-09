@@ -432,6 +432,9 @@ footer {
 .footer__logo--img {
     width: 70px;
     height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    overflow: hidden;
 }
 
 .footer__social--link,
